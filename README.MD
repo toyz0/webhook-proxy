@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/icon.svg" alt="webhook-proxy icon" width="96" />
-</p>
-
 # Webhook Proxy — สายฟ้าโอนข้อมูล
 
 เบา. เร็ว. เท่.
